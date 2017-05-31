@@ -2,3 +2,5 @@ h4 {
      margin-left: 50%;
      color: green;
      }
+h4.solid{border-style: outset;
+     border-color: red;}
