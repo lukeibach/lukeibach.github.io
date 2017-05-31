@@ -1,7 +1,10 @@
 .main{
-     margin-left: 35%;
-     margin-right: 65%'
+  text-align: center;
+  margin: 0;
+  height: 100%;
+  width:100%;
 }
+
 
 h4 {
      color: green;
