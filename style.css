@@ -1,5 +1,4 @@
 .main{
- background-color: green;
  margin-right: 35%;
  margin-left: 35%;
 }
@@ -7,4 +6,6 @@
 
 h4 {
      color: green;
+     border-bottom-style: solid;
+     border-color: black;
      }
