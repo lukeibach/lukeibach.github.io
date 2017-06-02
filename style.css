@@ -1,5 +1,6 @@
 .main{
  border-style: solid;
+ border-radius: 5px;
  margin-right: 35%;
  margin-left: 35%;
 }
