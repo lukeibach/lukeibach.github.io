@@ -8,6 +8,13 @@
  background-color: PaleTurquoise;
 }
 
+h1 {
+   font-family: Helvetica;
+   }
+
+li {
+    font-family: sans-serif;
+
 
 h2 {
      border-top-style: solid;
